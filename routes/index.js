@@ -64,7 +64,7 @@ const bookings = [
 
 //API Endpoint for App Home
 router.get("/", (req, res) => {
-  res.send({message:"hall booking"});
+  res.send({message:"hall booking https://username-hall-booking.onrender.com/bookings https://username-hall-booking.onrender.com/rooms"});
 });
 
 //API Endpoint for getting all details of Rooms
